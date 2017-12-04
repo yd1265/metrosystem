@@ -1,0 +1,10 @@
+A,Main Street West,Main Street East,1,8:00 AM,9:00 AM
+A,Main Street East,Main Street West,1,9:00 AM,10:00 AM
+D,Main Street East,8th Avenue South,1,9:45 AM,10:45 AM
+B,Broadway West,Broadway East,1,8:45 AM,9:45 AM
+B,Broadway East,Broadway West,1,9:30 AM,10:30 AM
+C,3rd Avenue North,3rd Avenue South,1,8:15 AM,9:15 AM
+C,3rd Avenue South,3rd Avenue North,1,9:15 AM,10:15 AM
+D,8th Avenue North,8th Avenue South,1,8:45 AM,9:45 AM
+D,8th Avenue South, 8th Avenue South,1,9:45 AM,10:45 AM
+A,8th Avenue North,Main Street West,1,9:00 AM,10:00 AM
